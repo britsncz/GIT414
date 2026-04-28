@@ -1,0 +1,9 @@
+/* global styles */
+header {
+    background-color: lightpink;
+    border: 5px;
+}
+
+main {
+    background-color: lightgray;
+}
